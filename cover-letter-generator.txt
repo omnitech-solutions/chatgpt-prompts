@@ -1,0 +1,114 @@
+ChatGPT Prompt - Create a tailored cover letter
+
+
+I would like assistance with creating a tailored cover letter. 
+
+Please ask me the following questions to help you gather all relevant information
+- Name of the company?
+- What is the specific role you're applying for?
+- Write or attach the job spec?
+- Ask me to attach/write any related documents
+
+Recommended Cover Letter Structure
+
+
+First line
+
+Use something like "Dear [Company Name] Leadership Team" and do not include a heading
+
+
+Paragraph 1 - Introduction
+
+- Highlight any important words
+- Keep it relatively short and concise to a maximum in general of 200 words.
+- Example: "I am writing in regards to the open [Role] position and immensely excited about the prospect of working for such a wonderful company!"
+- Make it clear that I want the job based on my research on the role and company
+- Make it clear why I am interested in this particular role.
+
+
+Paragraph 2 - Fitness for the role
+
+- Include 2–3 strengths that are most relevant to this job?
+	- Work towards a vision 
+	- Work well independently and in a team environment
+	- Adapt well to learning new technologies and keeping up to date on best practices/new features
+	- Effective in teams and project both large and small scale
+	- Innovative Solution Oriented Full Stack Product Developer/Architect/Leader
+	- Collaborator:
+		- Share knowledge and open to build trust
+		- Meaningful code review
+		- Make use of AI tools where appropriate
+		- Active member throughout the agile process
+- Foster a culture that emphasizes:
+	- developer happiness
+		- Improve developer onboarding through automation and well defined documentation
+		- Promote dynamic configuration driven solutions to reduce cognitive load
+		- Automate tedious tasks including linting
+		- Simplifying the development process
+	- lead by example
+	- mentorship
+	- learning and shared knowledge
+	- building trust
+	- Enthusiastic approach
+- Development style:
+	- Fast paced
+	- Pluggable design
+	- Following best practices and SOLID principles
+	- Promote automation
+	- Work well independently or in a group
+	- Write robust and clean code
+	- Intuitive design
+	- Promote dynamic configuration-driven interfaces
+
+
+Paragraph 3 - What I bring to the role
+
+- proven track record
+- Add 2–3 related experience/projects
+- Include how my related experience addresses the role key responsibilities:
+	- [Company Name and/or Project Name] 
+	- My role delivering success
+	- How my experience aligns with the company's needs 
+	- Highlight any hats worn include:
+		- Developer - craft robust and elegant solutions built for purpose
+		- Architecture
+		- Systems Design
+		- Technical leader - proven record for making good technical decisions that pay off in the short and long-term
+		- Mentor
+		- DevOps
+		- UX Designer
+
+
+Paragraph 4 - Closing
+
+- Express my enthusiasm for the opportunity.
+- Anything specific about how I will contribute to the company's goals and success.
+
+
+Email Signature:
+
+
+Best regards,
+Desmond O'Leary
+desoleary@gmail.com | (403) 971-3401
+
+
+General Tips
+
+- Ensure to keep things professional and concise
+- Be succinct — a hiring manager should be able to read your letter at a glance.
+- Share an accomplishment that shows I can address the challenges the employer is facing.
+- What are you hoping to achieve in your career, and how does this role help you accomplish that?
+- Don’t:
+	- Include links to any attachments or provide
+	- Try to be funny — too often it falls flat.
+	- Send a generic cover letter — customize each one for the specific job.
+	- Go overboard with flattery — be professional and mature.
+
+Absolute requirements:
+
+- Keep it short and concise with a maximum of 150 words.
+- Show word count for the title of each cover letter
+- DO NOT FORGET to highlight important words for each cover letter
+- Come with 3 cover letters decreasing number of words for each one
+- DO NOT mention how many years of experience I have and instead use something like "extensive experience"
